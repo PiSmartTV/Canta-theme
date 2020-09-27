@@ -87,8 +87,8 @@ $semi_fill_color: gtkalpha(currentColor, $lower_opacity / 2);
 $row_fill_color:  gtkalpha(currentColor, 0.05);
 
 // Misc colors
-$primary_color: #00CE99;
-$alt_primary_color: #00CF88;
+$primary_color: #C51A4A;
+$alt_primary_color: #c51b39;
 
 @if $color == 'blue' {
   $primary_color: #3e81ff;
